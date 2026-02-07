@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pillow
+paddleocr
+opencv-python
+phonenumbers
+python-multipart
+langdetect
+numpy
