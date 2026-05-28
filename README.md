@@ -40,7 +40,7 @@ The project is implemented as a RESTful API using FastAPI and runs completely of
 - Regular Expressions (re)  
 - langdetect  
 - phonenumbers  
-- NumPy  
+- NumPy
 
 ---
 
