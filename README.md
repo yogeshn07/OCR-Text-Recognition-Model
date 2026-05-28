@@ -12,7 +12,7 @@ The project is implemented as a RESTful API using FastAPI and runs completely of
 ## 🎯 Objectives
 - 🧾 Automate the extraction of contact details from visiting cards  
 - ✍️ Reduce manual data entry and human errors  
-- 🎨 Support different card layouts, fonts, and image qualities  
+- 🎨 Support different card layouts, fonts, and image qualities
 - 📊 Provide a confidence score indicating extraction reliability  
 - 🧩 Design a modular and extensible OCR pipeline  
 - 🔒 Ensure offline, privacy-preserving execution  
